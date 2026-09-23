@@ -40,8 +40,8 @@ Building scalable distributed systems, clean architectures, and hardware-to-clou
 ## 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luistorres-idt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luistorres-idt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://gh-stats.com/api?username=luistorres-idt&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://gh-stats.com/api/top-langs?username=luistorres-idt&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
