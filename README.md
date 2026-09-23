@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Luis%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Architect%20%7C%20Senior%20Engineer&descAlignY=62&descSize=18&descAlign=50&descColor=38bdf8" width="100%" alt="Header" />
-
+<img src="./assets/banner.jpg" width="100%" alt="Cyberpunk Blade Runner Banner" />
 <br/>
 
 <a href="https://git.io/typing-svg">
