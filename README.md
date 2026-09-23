@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Luis Torres 👋
-
-**Software Architect & Senior Full-Stack Engineer**
-
-Building scalable distributed systems, clean architectures, and hardware-to-cloud solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Luis%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Architect%20%7C%20Senior%20Engineer&descAlignY=62&descSize=18&descAlign=50&descColor=38bdf8" width="100%" alt="Header" />
 
 <br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Architect+%26+Senior+Engineer;Designing+Resilient+Distributed+Systems;TypeScript+%7C+Rust+%7C+Cloud+Infra+%7C+IoT;Focusing+on+Clean+Architecture" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luistorres-idt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luistorres@idttecnologias.mx)
@@ -32,6 +34,18 @@ Building scalable distributed systems, clean architectures, and hardware-to-clou
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
     <img alt="GitHub 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="./dist/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
